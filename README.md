@@ -162,20 +162,21 @@ Chaque cellule peut être :
 - **R** et **D** sont des états stables
 
 ---
+### 3.4 Résultats de simulation
+<!-- Résultat visuel et numérique de l'évolution de l'automate -->
 
-### 3.4 Schéma algorithmique
+> ![Courbes SIRD automates](./Images/Image11.png)
+
+---
+
+### 3.5 Schéma algorithmique
 <!-- Algorithme général de simulation -->
 
 > ![Schéma algo simulation](./Images/Image13.png)
 
 ---
 
-### 3.5 Résultats de simulation
-<!-- Résultat visuel et numérique de l'évolution de l'automate -->
 
-> ![Courbes SIRD automates](./Images/Image11.png)
-
----
 
 ### 3.6 Amélioration : temps d’incubation
 <!-- Ajout d'une notion de délai dans la contamination -->
